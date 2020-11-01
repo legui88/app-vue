@@ -1,0 +1,46 @@
+{
+    "name": "conferences",
+    "conf": [
+      {
+        "number": "1",
+        "name": "L'importange de la nature",
+        "date": "20/04/2021",
+        "heure": "15h",
+        "salle": "amphi A"
+      },{
+        "number": "2",
+        "name": "Choisir en le sport et l'esport",
+        "date": "20/04/2021",
+        "heure": "17h",
+        "salle": "amphi B"
+      },
+  {
+        "number": "3",
+        "name": "Prendre soin de sa santé de nos jours",
+        "date": "20/04/2021",
+        "heure": "18h",
+        "salle": "amphi C"
+      },
+  {
+        "number": "4",
+        "name": "Voter est-il utile aujourd'hui?",
+        "date": "20/04/2021",
+        "heure": "11h",
+        "salle": "amphi A"
+      },
+  {
+        "number": "5",
+        "name": "Comment bien manger sans le CROUS?",
+        "date": "20/04/2021",
+        "heure": "18h",
+        "salle": "amphi A"
+      },
+  {
+        "number": "6",
+        "name": "Le marché du travail via l'interim",
+        "date": "20/04/2021",
+        "heure": "12h",
+        "salle": "amphi E"
+      }
+    ]
+}
